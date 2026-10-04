@@ -1,0 +1,8 @@
+{
+  "name": "AuraTopUp - Gaming Top-Up & ABA KHQR Store",
+  "description": "Fast, secure, and instant gaming top-up for Mobile Legends, Free Fire, PUBG Mobile, and Roblox with ABA PayWay and KHQR payment integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
